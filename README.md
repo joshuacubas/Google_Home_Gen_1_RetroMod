@@ -23,3 +23,7 @@ https://guide-images.cdn.ifixit.com/igi/c3wNmPscxL5qiBRM.full
 4 - Mounting a micro-usb extension on the outside of the box was a smart after thought I later implemented. This eliminates cable stress, and allows you to unplug cords.
 
 5 - Future thoughts, I want to use optical cables to extend the light from the leds my next attempt, different copper thickness, maybe a way to keep original radio functional as well, and figure out how to extend mute and reset physical buttons.
+
+# Youtube Link
+
+https://youtu.be/3t5chXUR9DQ
